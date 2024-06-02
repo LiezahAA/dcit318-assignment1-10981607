@@ -1,0 +1,15 @@
+/Users/liezah-attakorah/Projects/Ticket Price Calculator/Ticket Price Calculator/bin/Debug/net7.0/Ticket Price Calculator
+/Users/liezah-attakorah/Projects/Ticket Price Calculator/Ticket Price Calculator/bin/Debug/net7.0/Ticket Price Calculator.deps.json
+/Users/liezah-attakorah/Projects/Ticket Price Calculator/Ticket Price Calculator/bin/Debug/net7.0/Ticket Price Calculator.runtimeconfig.json
+/Users/liezah-attakorah/Projects/Ticket Price Calculator/Ticket Price Calculator/bin/Debug/net7.0/Ticket Price Calculator.dll
+/Users/liezah-attakorah/Projects/Ticket Price Calculator/Ticket Price Calculator/bin/Debug/net7.0/Ticket Price Calculator.pdb
+/Users/liezah-attakorah/Projects/Ticket Price Calculator/Ticket Price Calculator/obj/Debug/net7.0/Ticket Price Calculator.csproj.AssemblyReference.cache
+/Users/liezah-attakorah/Projects/Ticket Price Calculator/Ticket Price Calculator/obj/Debug/net7.0/Ticket Price Calculator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/liezah-attakorah/Projects/Ticket Price Calculator/Ticket Price Calculator/obj/Debug/net7.0/Ticket Price Calculator.AssemblyInfoInputs.cache
+/Users/liezah-attakorah/Projects/Ticket Price Calculator/Ticket Price Calculator/obj/Debug/net7.0/Ticket Price Calculator.AssemblyInfo.cs
+/Users/liezah-attakorah/Projects/Ticket Price Calculator/Ticket Price Calculator/obj/Debug/net7.0/Ticket Price Calculator.csproj.CoreCompileInputs.cache
+/Users/liezah-attakorah/Projects/Ticket Price Calculator/Ticket Price Calculator/obj/Debug/net7.0/Ticket Price Calculator.dll
+/Users/liezah-attakorah/Projects/Ticket Price Calculator/Ticket Price Calculator/obj/Debug/net7.0/refint/Ticket Price Calculator.dll
+/Users/liezah-attakorah/Projects/Ticket Price Calculator/Ticket Price Calculator/obj/Debug/net7.0/Ticket Price Calculator.pdb
+/Users/liezah-attakorah/Projects/Ticket Price Calculator/Ticket Price Calculator/obj/Debug/net7.0/Ticket Price Calculator.genruntimeconfig.cache
+/Users/liezah-attakorah/Projects/Ticket Price Calculator/Ticket Price Calculator/obj/Debug/net7.0/ref/Ticket Price Calculator.dll
