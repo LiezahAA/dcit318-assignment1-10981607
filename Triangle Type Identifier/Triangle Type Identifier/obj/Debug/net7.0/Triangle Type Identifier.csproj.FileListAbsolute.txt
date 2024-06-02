@@ -1,0 +1,15 @@
+/Users/liezah-attakorah/Projects/Triangle Type Identifier/Triangle Type Identifier/bin/Debug/net7.0/Triangle Type Identifier
+/Users/liezah-attakorah/Projects/Triangle Type Identifier/Triangle Type Identifier/bin/Debug/net7.0/Triangle Type Identifier.deps.json
+/Users/liezah-attakorah/Projects/Triangle Type Identifier/Triangle Type Identifier/bin/Debug/net7.0/Triangle Type Identifier.runtimeconfig.json
+/Users/liezah-attakorah/Projects/Triangle Type Identifier/Triangle Type Identifier/bin/Debug/net7.0/Triangle Type Identifier.dll
+/Users/liezah-attakorah/Projects/Triangle Type Identifier/Triangle Type Identifier/bin/Debug/net7.0/Triangle Type Identifier.pdb
+/Users/liezah-attakorah/Projects/Triangle Type Identifier/Triangle Type Identifier/obj/Debug/net7.0/Triangle Type Identifier.csproj.AssemblyReference.cache
+/Users/liezah-attakorah/Projects/Triangle Type Identifier/Triangle Type Identifier/obj/Debug/net7.0/Triangle Type Identifier.GeneratedMSBuildEditorConfig.editorconfig
+/Users/liezah-attakorah/Projects/Triangle Type Identifier/Triangle Type Identifier/obj/Debug/net7.0/Triangle Type Identifier.AssemblyInfoInputs.cache
+/Users/liezah-attakorah/Projects/Triangle Type Identifier/Triangle Type Identifier/obj/Debug/net7.0/Triangle Type Identifier.AssemblyInfo.cs
+/Users/liezah-attakorah/Projects/Triangle Type Identifier/Triangle Type Identifier/obj/Debug/net7.0/Triangle Type Identifier.csproj.CoreCompileInputs.cache
+/Users/liezah-attakorah/Projects/Triangle Type Identifier/Triangle Type Identifier/obj/Debug/net7.0/Triangle Type Identifier.dll
+/Users/liezah-attakorah/Projects/Triangle Type Identifier/Triangle Type Identifier/obj/Debug/net7.0/refint/Triangle Type Identifier.dll
+/Users/liezah-attakorah/Projects/Triangle Type Identifier/Triangle Type Identifier/obj/Debug/net7.0/Triangle Type Identifier.pdb
+/Users/liezah-attakorah/Projects/Triangle Type Identifier/Triangle Type Identifier/obj/Debug/net7.0/Triangle Type Identifier.genruntimeconfig.cache
+/Users/liezah-attakorah/Projects/Triangle Type Identifier/Triangle Type Identifier/obj/Debug/net7.0/ref/Triangle Type Identifier.dll
